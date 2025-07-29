@@ -1,0 +1,1 @@
+Mosquitto must be installed for this test.

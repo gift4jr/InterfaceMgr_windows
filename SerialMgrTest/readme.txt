@@ -1,0 +1,1 @@
+Virtual Serial Port Emulator is required for this test.
