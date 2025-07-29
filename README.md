@@ -46,7 +46,8 @@ Enables high-speed, connectionless communication via UDP sockets.
 
 ## 🚀 How to Use
 
+Download the entire code as a ZIP file and try running it in Visual Studio.  
 You can include any combination of these libraries in your project depending on your communication and resource management needs.  
-Each module is independently usable and thread-safe by design.
+Each module is independently usable and thread-safe by design.  
 
 ---
