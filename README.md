@@ -16,13 +16,13 @@ Manages file I/O operations in a concurrent environment with built-in synchroniz
 Supports real-time message publishing and subscribing using the MQTT protocol.
 
 ### 4. **Message Queue Manager Library**
-Implements a lightweight, thread-safe message queuing system for inter-thread communication.
+Implements a lightweight, thread-safe message queuing using ring-buffer for inter-thread communication.
 
 ### 5. **Pipe Manager Library**
 Facilitates communication between processes or threads using named or unnamed pipes.
 
 ### 6. **Serial Manager Library**
-Manages serial communication interfaces (e.g., COM ports) with support for real-time data handling.
+Manages serial communication interfaces with support for real-time data handling.
 
 ### 7. **Table Manager Library**
 Provides dynamic in-memory data table operations with support for indexing and searching.
@@ -34,7 +34,7 @@ Handles outgoing TCP connections and client-side data exchange with multi-thread
 Supports incoming TCP connections with multithreaded session management and message handling.
 
 ### 10. **TeleCom Manager Library (Multicast Loopback)**
-Implements multicast-based communication for local loopback messaging.
+Implements tele-communication using multicast loopback.
 
 ### 11. **Time Manager Library**
 Offers real-time timer and scheduling functions, suitable for periodic or delayed task execution.
