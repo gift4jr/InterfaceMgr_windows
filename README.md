@@ -1,8 +1,6 @@
-# Real-Time Thread Programming Libraries
+# Real-Time Interface Communication & Data Management Libraries
 
-Real-time thread programming can be implemented using the following **Interface Manager libraries**.  
-Each library is designed to handle a specific type of system resource or communication interface,  
-enabling modular, efficient, and real-time multi-threaded software development.
+Real-time system components for communication and data management. These libraries offer robust, thread-safe interfaces for communication (TCP, UDP, MQTT, pipe, queue, serial), efficient data handling (database, in-memory table, file), and precise time control. Built with concurrency, scalability, and low-latency in mind, they are ideal for applications requiring deterministic behavior and reliable inter-thread or inter-process communication.
 
 ## 📚 Included Libraries
 
